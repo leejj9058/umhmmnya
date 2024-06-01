@@ -32,6 +32,12 @@
 
 </br></br></br>
 
+## <div align=center> _🅵 Functional Summary_ </div>
+
+<img width="1377" alt="image" src="https://github.com/gidskql6671/Jandi-Jandi/assets/145311245/51d82ff6-b1f2-4d48-a9d3-4237315e5ad2">
+
+</br></br></br>
+
 ## <div align=center> _🅳 data flow diagram_ </div>
 
 <img width="1302" alt="image" src="https://github.com/leejj9058/umhmmnya/assets/145311245/f2c3ef35-8ba2-46cd-ad92-cb49a2172b16">
