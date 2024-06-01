@@ -4,7 +4,7 @@
 
 </br></br></br>
 
-> ### _Our service will be_ </br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=6000&color=000000&random=false&width=450&lines=%20"%20+The+smartest+way+to+enjoy+My+Festival%20!+%20")](https://git.io/typing-svg)
+> ### _Our service, 'MA will be_ </br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=6000&color=000000&random=false&width=450&lines=%20"%20+The+smartest+way+to+enjoy+My+Festival%20!+%20")](https://git.io/typing-svg)
 
 <img width="1437" alt="image" src="https://github.com/leejj9058/umhmmnya/assets/145311245/61c40af5-5ecf-4374-be3c-d1896f252f9c">
 
@@ -32,9 +32,15 @@
 
 </br></br></br>
 
-## <div align=center> _🅵 Functional Summary_ </div>
+## <div align=center> _🅵 functional summary_ </div>
 
 <img width="1377" alt="image" src="https://github.com/gidskql6671/Jandi-Jandi/assets/145311245/51d82ff6-b1f2-4d48-a9d3-4237315e5ad2">
+
+</br></br></br>
+
+## <div align=center> _🆄 usecase diagram_ </div>
+
+<img width="1031" alt="image" src="https://github.com/gidskql6671/Jandi-Jandi/assets/145311245/83f34b95-c72a-4de6-8fe0-e2147a8bc4d3">
 
 </br></br></br>
 
