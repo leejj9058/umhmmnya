@@ -72,4 +72,4 @@
 </br></br></br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=6000&color=051218&random=false&width=400&lines=Now+you+can+say+%22UHH!%22)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=6000&color=051218&random=false&width=450&lines=Thank+you+so+much;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=6000&color=051218&random=false&width=450&lines=Thank+you+so+much☺︎☺︎)](https://git.io/typing-svg)
