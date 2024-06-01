@@ -56,7 +56,7 @@
 
 [![j](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://knuackr-my.sharepoint.com/:p:/g/personal/chichichi001_knu_ac_kr/ETtKdzpvwJ9EkrTPLvFZxtIBJsX02jMPw_EZfcPcHzJ6Lw?e=ptrlCS) </br>
 ▲ This deck includes ▲ </br>
-`1. service outline` `2. usecase diagram` `3. data flow diagram` `4. main code` `5. user interface`
+`1. service outline` `2. usecase diagram` `3. data flow diagram` `4. main code` `5. user interface` `etc`
 </br></br></br>
 > our 𝑻𝑬𝑪𝑯 𝑺𝑻𝑨𝑪𝑲,
 
