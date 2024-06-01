@@ -19,6 +19,7 @@ public class UserService {
                 .password(bCryptPasswordEncoder.encode(dto.getPassword()))
                 .phonenumber(dto.getPhonenumber())
                 .name(dto.getName())
+                .nickname(dto.getNickname())
                 .build()).getId();
     }
 }
