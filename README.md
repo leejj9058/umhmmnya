@@ -34,7 +34,13 @@
 ## <div align=center> _🅳 data flow diagram_ </div>
 
 <img width="1302" alt="image" src="https://github.com/leejj9058/umhmmnya/assets/145311245/f2c3ef35-8ba2-46cd-ad92-cb49a2172b16">
+
+</br></br></br>
+
+## <div align=center> _🆁 reference_ </div>
+
 to see 𝑷𝑹𝑬𝑺𝑬𝑵𝑻𝑨𝑻𝑰𝑶𝑵 𝑫𝑬𝑪𝑲,
 
 [![j](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://knuackr-my.sharepoint.com/:p:/g/personal/chichichi001_knu_ac_kr/ETtKdzpvwJ9EkrTPLvFZxtIBJsX02jMPw_EZfcPcHzJ6Lw?e=ptrlCS) </br>
-&nbsp;&nbsp;&nbsp;&nbsp; it includes 1. service outline, 2. usecase diagram, 3. data flow diagram, 
+▲ This deck includes ▲ </br>
+1. service outline, 2. usecase diagram, 3. data flow diagram, 
