@@ -4,7 +4,7 @@
 
 </br></br></br>
 
-> ### _Our service, 'MA will be_ </br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=6000&color=000000&random=false&width=450&lines=%20"%20+The+smartest+way+to+enjoy+My+Festival%20!+%20")](https://git.io/typing-svg)
+> ### _Our service will be_ </br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=6000&color=000000&random=false&width=450&lines=%20"%20+The+smartest+way+to+enjoy+My+Festival%20!+%20")](https://git.io/typing-svg)
 
 <img width="1437" alt="image" src="https://github.com/leejj9058/umhmmnya/assets/145311245/61c40af5-5ecf-4374-be3c-d1896f252f9c">
 
