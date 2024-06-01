@@ -1,6 +1,6 @@
 ![i](https://img.shields.io/github/last-commit/{username}/{repo-name}.svg)
 <img width="1437" alt="image" src="https://github.com/leejj9058/umhmmnya/assets/145311245/1b9824ea-01de-45d2-a71e-6b6c8fa91abb">
-<div align=center> ☺︎ Leejj9048 / Mosy2266 / Wifiaircat / Catsmaster ☺︎ </div>
+<div align=center> ☺︎ `Leejj9048` / `Mosy2266` / `Wifiaircat` / `Catsmaster` ☺︎ </div>
 
 </br></br></br>
 
@@ -48,12 +48,12 @@
 </br></br></br>
 > our 𝑻𝑬𝑪𝑯 𝑺𝑻𝑨𝑪𝑲,
 
-► **_Front-End_**
+► **_Front-End_** ... 
 ![i](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![i](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![i](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-► **_Back-End_**
+► **_Back-End_** ... 
 ![i](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![i](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
